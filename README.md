@@ -1,21 +1,30 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
-Linear Regression on Advertising Dataset | Coding Samurai Internship Project
+2 Projects | Coding Samurai Internship Project
 
-# Linear Regression on Advertising Dataset 📈
-This Project is for the **Coding Samurai Data Science Internship**.
+# Coding Samurai Internship Task
 
-## 📌 Problem Statement
-Predict sales based on advertising spend using a **simple Linear Regression model**.
+This repository contains the internship work completed for the **Coding Samurai Data Science Internship**.
 
-## 🛠️ Tech Stack
-- Python 
-- Jupyter Notebook 
-- Pandas, Matplotlib, Seaborn, Scikit-learn
+## 🔹 Project 1: Linear Regression on Advertising Dataset
+- Built a simple linear regression model to predict sales based on advertising spend.
+- Skills: Python, Pandas, Scikit-learn, Matplotlib
 
-## 📊 Dataset
-A simple self-created dataset.
+## 🔹 Project 2: Exploratory Data Analysis on Titanic Dataset
+- Performed in-depth EDA on Titanic survival data.
+- Covered missing value handling, visualizations, and feature insights.
+- Skills: Pandas, Seaborn, Matplotlib, Statistical Analysis
 
-## ✅ Results
-- **R² Score**: 0.99 (Excellent fit)
-- **MSE**: Very low
-- Positive correlation between advertising spend and sales.
+
+## 🚀 Tools Used
+- Python
+- Jupyter Notebook
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn (for Linear Regression)
+
+---
+
+## 💼 Author
+**Vishakha Arun Kolhe**  
+
+
+
